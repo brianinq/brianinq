@@ -21,7 +21,7 @@
 -   🔭 I'm currently working on [React]()
 -   🌱 I'm currently learning React and Node
 -   👯 I’m looking to collaborate on React projects
--   📫 How to reach me: [@brianinq](https://twitter.com/brianinq)
+-   📫 How to reach me: [@brian](https://twitter.com)
 
 </p>
 
